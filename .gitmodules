@@ -1,0 +1,12 @@
+[submodule "Carpooling"]
+	path = Carpooling
+	url = https://github.com/WSU-4110/CarpoolingApp
+[submodule "Dog"]
+	path = Dog
+	url = https://github.com/nidhi-nadig10/csc4710project
+[submodule "CarpoolingAndroidApp"]
+	path = CarpoolingAndroidApp
+	url = https://github.com/WSU-4110/CarpoolingApp
+[submodule "DogAdoptionDatabase_SQL"]
+	path = DogAdoptionDatabase_SQL
+	url = https://github.com/nidhi-nadig10/csc4710project
